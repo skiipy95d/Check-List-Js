@@ -1,4 +1,4 @@
-<h1>Lista de Tareas Interactiva</h1>
+<h1>Check List interactivo</h1>
 
 <p>Esta aplicación simple te permite gestionar una lista de tareas de manera interactiva. Puedes agregar nuevas tareas, marcarlas como completadas o eliminarlas. La información se guarda localmente en el navegador mediante el uso de `localStorage`.</p>
 
